@@ -24,7 +24,7 @@ const PatientCard = () => {
                     </div>
                     <div>
                         <p className='text-sm text-gray-500'>Date Of Birth</p>
-                        <p className='text-sm font-medium text-gray-800'>August 23, 1986</p>
+                        <p className='text-sm font-medium text-gray-800'>August 17, 1986</p>
                     </div>
                 </div>
 
